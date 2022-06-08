@@ -12,6 +12,8 @@ namespace WinFormsApp1
             names.Add(new UserClass("aboud", "123"));
             names.Add(new UserClass("ali", "589"));
             names.Add(new UserClass("Hoda", "742"));
+           
+
 
         }
 
